@@ -1,4 +1,4 @@
-main.o: D:/Code/GBA/test/src/main.cpp \
+main.o: D:/Code/GBA/rolling-eggs/src/main.cpp \
  D:/Code/GBA/butano-17.8.1/butano/include/bn_core.h \
  D:/Code/GBA/butano-17.8.1/butano/include/bn_span.h \
  D:/Code/GBA/butano-17.8.1/butano/include/bn_array.h \
@@ -30,7 +30,7 @@ main.o: D:/Code/GBA/test/src/main.cpp \
  D:/Code/GBA/butano-17.8.1/butano/include/bn_fixed_point.h \
  D:/Code/GBA/butano-17.8.1/butano/include/bn_point.h \
  D:/Code/GBA/butano-17.8.1/butano/include/bn_fixed_point_fwd.h \
- D:/Code/GBA/test/build/bn_sprite_items_egg.h \
+ D:/Code/GBA/rolling-eggs/build/bn_sprite_items_egg.h \
  D:/Code/GBA/butano-17.8.1/butano/include/bn_sprite_item.h \
  D:/Code/GBA/butano-17.8.1/butano/include/bn_sprite_shape_size.h \
  D:/Code/GBA/butano-17.8.1/butano/include/bn_bpp_mode.h \
@@ -77,7 +77,7 @@ D:/Code/GBA/butano-17.8.1/butano/include/bn_sprite_ptr.h:
 D:/Code/GBA/butano-17.8.1/butano/include/bn_fixed_point.h:
 D:/Code/GBA/butano-17.8.1/butano/include/bn_point.h:
 D:/Code/GBA/butano-17.8.1/butano/include/bn_fixed_point_fwd.h:
-D:/Code/GBA/test/build/bn_sprite_items_egg.h:
+D:/Code/GBA/rolling-eggs/build/bn_sprite_items_egg.h:
 D:/Code/GBA/butano-17.8.1/butano/include/bn_sprite_item.h:
 D:/Code/GBA/butano-17.8.1/butano/include/bn_sprite_shape_size.h:
 D:/Code/GBA/butano-17.8.1/butano/include/bn_bpp_mode.h:
